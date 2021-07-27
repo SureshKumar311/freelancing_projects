@@ -4,19 +4,39 @@ Repository is made for showcase my projects and other works
 
 All the projects Shown here is fully developed be @suresh kumar(github.com/SureshKumar311) 
 
-Project Name : 
+
+
+
+![login](https://user-images.githubusercontent.com/51741195/127148536-5393892c-49a9-4805-8491-8572f9529d5a.png)
+
+![user role ](https://user-images.githubusercontent.com/51741195/127149159-90df4c68-292c-4ae9-9a44-20e45427d6e9.png)
+![home page](https://user-images.githubusercontent.com/51741195/127148879-2e575c44-8d7c-4e26-a1d2-1b49ef0dd48b.png)
+![edit services](https://user-images.githubusercontent.com/51741195/127148940-d5e9dc9a-8b14-4733-b7e4-1e075e7118d5.png)
+![add service ](https://user-images.githubusercontent.com/51741195/127148975-af9450f3-6e37-4906-aa84-df0f3fe81475.png)
+![serviceprrovider](https://user-images.githubusercontent.com/51741195/127148990-d969c54f-0b09-4dfa-98d0-1cc7f4b2dfab.png)
+![drawer](https://user-images.githubusercontent.com/51741195/127149054-f572309c-fad2-487f-9c7d-aac570122bac.png)
+![book appointment](https://user-images.githubusercontent.com/51741195/127149080-458845a6-a846-4b2c-a71f-821cd13c4499.png)
+![cancle order](https://user-images.githubusercontent.com/51741195/127149096-e5f233c2-e05e-4f87-8ad4-32abf24b4dc7.png)
+![order with accept ](https://user-images.githubusercontent.com/51741195/127149118-7f877e1c-5b53-4705-bdf8-54dcd88a4e2f.png)
+![orderpage](https://user-images.githubusercontent.com/51741195/127149133-cd8300ca-fe39-43e4-a17b-d206c92648f5.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Project Name : pair & Repair
 
 Features:
 
-Photos:
-
-
-Project Name : Admin Panel
-
-Features:
-
-    #Admin dashboard
-    #analystics 
+    #E-commerce 
+    #Login page
+    #Same app can be used for both service perovider
+    #Home Page
+    #Profile management
+    #Service Edit page (limited to 1 for each service)
+    #Service view page
+    #booking page
+    #Order page
+    #Order Operations(accept , cancle)
     #easy and simple desing
                                    
 Photos:
