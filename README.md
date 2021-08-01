@@ -26,9 +26,9 @@ Photos:
 
 
 <p align=center >
-  <img src="https://user-images.githubusercontent.com/51741195/127161380-d9d64594-7998-488e-821a-114268ee01e3.jpeg" width="300">
- <img src="https://user-images.githubusercontent.com/51741195/127161327-59ac205e-672a-4b0e-a109-3791c988b552.jpg" width="300">
- <img src="https://user-images.githubusercontent.com/51741195/127161828-6a800d5a-961b-4d1f-97c8-e3c695f0790c.png" width="300">
+  <img src="https://user-images.githubusercontent.com/51741195/127161380-d9d64594-7998-488e-821a-114268ee01e3.jpeg" width="250">
+ <img src="https://user-images.githubusercontent.com/51741195/127161327-59ac205e-672a-4b0e-a109-3791c988b552.jpg" width="250">
+ <img src="https://user-images.githubusercontent.com/51741195/127161828-6a800d5a-961b-4d1f-97c8-e3c695f0790c.png" width="250">
 </p>
 
 
