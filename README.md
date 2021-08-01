@@ -84,9 +84,9 @@ Features:
 Photos:
 
 <p> 
-<img src="https://user-images.githubusercontent.com/51741195/127148879-2e575c44-8d7c-4e26-a1d2-1b49ef0dd48b.png" width ="300">
-<img src="https://user-images.githubusercontent.com/51741195/127149054-f572309c-fad2-487f-9c7d-aac570122bac.png" width ="300">
-<img src="https://user-images.githubusercontent.com/51741195/127149080-458845a6-a846-4b2c-a71f-821cd13c4499.png" width ="300"> 
+<img src="https://user-images.githubusercontent.com/51741195/127148879-2e575c44-8d7c-4e26-a1d2-1b49ef0dd48b.png" width ="250">
+<img src="https://user-images.githubusercontent.com/51741195/127149054-f572309c-fad2-487f-9c7d-aac570122bac.png" width ="250">
+<img src="https://user-images.githubusercontent.com/51741195/127149080-458845a6-a846-4b2c-a71f-821cd13c4499.png" width ="250"> 
 </p>
  
 <p  > Home Page & Service Booking page </p>
