@@ -1,16 +1,25 @@
-# freelancing_projects
+<div align="center">
+ <h1 align="center" style="padding: 15px;color: brown;">
+        Freelancing Projects</h1>
+ <h3>Repository is made for showcase my projects and other works done on Freelancing</h3>
+<h3>All the projects Shown here is fully developed be @suresh kumar </h3>
+ <h5>( Github : github.com/SureshKumar311 , Email : sureshkumar31@gail.com , Phone No : +91 9597258838 )</h5>
+&nbsp;
+&nbsp;
+</div>
 
-Repository is made for showcase my projects and other works 
+<!--  for img  -->  
 
-All the projects Shown here is fully developed be @suresh kumar(github.com/SureshKumar311) 
+<!--  <kbd>img </kbd>  -->
 
+<!--  <table><tr><td>   </td></tr></table> --> 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Project Name : E-commerce Web & Mobile Application (demo)
+<h3>Project Name : E-commerce Web & Mobile Application (demo)</h3>
 
-Features:
+<h4>Features:</h4>
 
     #Home screen
     #api intergation
@@ -18,51 +27,36 @@ Features:
     #android
     #web application
                                    
-Photos:
+<h4>Photos:</h4>
 
- <img src="https://user-images.githubusercontent.com/51741195/127161428-a3eda339-1a86-4d21-ad68-172b4601e4ab.jpg">
+ <img src="https://user-images.githubusercontent.com/51741195/127161428-a3eda339-1a86-4d21-ad68-172b4601e4ab.jpg" width="1000">
  
-<p align= center > Home Page </p>
+
+<div>
+    
+&nbsp;
+<p  > Home Page:</p>
+&nbsp;
+        
+</div>
 
 
-<p align=center >
+<p align=center  >
+    <kbd>
   <img src="https://user-images.githubusercontent.com/51741195/127161380-d9d64594-7998-488e-821a-114268ee01e3.jpeg" width="250">
  <img src="https://user-images.githubusercontent.com/51741195/127161327-59ac205e-672a-4b0e-a109-3791c988b552.jpg" width="250">
- <img src="https://user-images.githubusercontent.com/51741195/127161828-6a800d5a-961b-4d1f-97c8-e3c695f0790c.png" width="250">
+ <img src="https://user-images.githubusercontent.com/51741195/127161828-6a800d5a-961b-4d1f-97c8-e3c695f0790c.png" width="250"></kbd>
 </p>
 
 
 
-
-
-<h1 align="center">Awesome GitHub Profile README 
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
-
-<i>A curated list of awesome Github Profile READMEs</i>
-
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
-
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
-
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
-
+<div>
+    
+&nbsp;
+    
+&nbsp;
+        
 </div>
-
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -77,11 +71,11 @@ Features:
                                    
 Photos:
 
- <img src="https://user-images.githubusercontent.com/51741195/127128709-f5f23115-cd98-4c67-ae54-62c8fab8815d.png">
+ <img src="https://user-images.githubusercontent.com/51741195/127128709-f5f23115-cd98-4c67-ae54-62c8fab8815d.png" width="1000" >
  
 <p align= center > Admin panel </p>
 
-<img src="https://user-images.githubusercontent.com/51741195/127131449-3b6b8a1b-ceb1-4464-88f6-d0567d083854.png">
+<img src="https://user-images.githubusercontent.com/51741195/127131449-3b6b8a1b-ceb1-4464-88f6-d0567d083854.png" width="1000">
 
 <p align= center > Form Feild and Upload files </p>
 
@@ -92,6 +86,15 @@ Photos:
  <img src="https://user-images.githubusercontent.com/51741195/127131520-20812827-eb58-4b0c-906d-fc9a4da09eac.png" width="400">
  
 </p>
+
+
+<div>
+    
+&nbsp;
+    
+&nbsp;
+        
+</div>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -136,6 +139,14 @@ Photos:
 <img src="https://user-images.githubusercontent.com/51741195/127149118-7f877e1c-5b53-4705-bdf8-54dcd88a4e2f.png" width="250">
 <img src="https://user-images.githubusercontent.com/51741195/127149133-cd8300ca-fe39-43e4-a17b-d206c92648f5.png" width="250">
 </p>
+
+<div>
+    
+&nbsp;
+    
+&nbsp;
+        
+</div>
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
