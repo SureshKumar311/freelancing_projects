@@ -54,7 +54,101 @@ edit herer:
 </div> -->
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+<h3>
+Project Name : Omnisec Feed App
+
+</h3>
+
+<h4>Features:</h4>
+
+    Intro screen
+    Single Click Login with google 
+    Normal News Feeds
+    Tweets Feeds 
+    CTF Feeds
+    Search with Tags
+    Invite Functions
+    Optints System for Rewards
+    Bookmarks for normal feeds
+    Book mark for Tweet feeds
+    Feedsbacks screen 
+    Admin panel
+    Edit Tweets tags
+    Delete non quality tweets
+    reviews Feedback
+ 
+ 
+<h4>Photos:</h4>
+
+
+<!--  <img   src=https://user-images.githubusercontent.com/51741195/133664962-213b4642-1618-46e9-a08d-32a4a0f670a7.png width="400"> -->
+ 
+ 
+<div>
+&nbsp;
+<p  >
+Home page :
+ 
+</p>
+&nbsp;
+</div>
+<!-- 
+![tweetsfeeds](https://user-images.githubusercontent.com/51741195/133666051-0f78a104-2748-4e36-8fcb-6764160ba70d.png) -->
+<!-- ![cft](https://user-images.githubusercontent.com/51741195/133666072-f16da1a9-f766-46e0-9a66-b304a6c5b0eb.png) -->
+<!-- ![invite](https://user-images.githubusercontent.com/51741195/133666223-9f12d80b-e53d-461f-943a-3a0ac256260e.png) -->
+<!-- ![invitepage](https://user-images.githubusercontent.com/51741195/133666246-312fb0db-4aa2-461d-82b4-9f4106fee55b.png) -->
+
+<!-- ![invite1](https://user-images.githubusercontent.com/51741195/133666252-88a1b4d4-eb20-4848-ba0e-809d6cb63a69.png) -->
+<!-- ![invite2](https://user-images.githubusercontent.com/51741195/133666264-be87b087-88c1-4eee-acb0-fb83755ceca6.png) -->
+
+<!-- ![feedback](https://user-images.githubusercontent.com/51741195/133666311-2d58cb3e-41a6-4ca5-9c59-e9fb111d5b23.png) -->
+<!-- ![search](https://user-images.githubusercontent.com/51741195/133666394-c2bedc8f-971d-4732-a9fc-30492d8e74ae.png) -->
+<!-- ![searchresults](https://user-images.githubusercontent.com/51741195/133666401-3dd98d51-3430-4f4b-a639-ead5a149c70b.png) -->
+
+<!-- ![bookmark](https://user-images.githubusercontent.com/51741195/133666723-b0348afa-2137-47fe-8b34-d12da9afc47c.png) -->
+<!-- ![bookmarktweets](https://user-images.githubusercontent.com/51741195/133666728-ab4bda5f-711e-487d-8f0c-3e208a41de30.png) -->
+<!-- ![admintweet](https://user-images.githubusercontent.com/51741195/133666749-64e1e30d-d7f1-46cb-b9f1-eacb2a8fb690.png) -->
+<!-- ![admintweeet2](https://user-images.githubusercontent.com/51741195/133666764-21002268-2adc-4194-86bc-eaa100da81b8.png) -->
+<!-- ![reviewFeedback](https://user-images.githubusercontent.com/51741195/133666791-d9ba87f5-11f3-4e50-93b3-ba021f35349a.png) -->
+
+
+<kbd  >
+ 
+   <img src=https://user-images.githubusercontent.com/51741195/133665494-cf9893c2-c230-4738-ae07-b10000f89335.png  width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/133665236-d2bbe84f-ea91-4403-9e01-adbb27ab2fa3.png width="250">
+ <img src=https://user-images.githubusercontent.com/51741195/133665261-8652b2ca-842e-4e86-a5ea-1d6fbebbdf05.png width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133665530-114cc715-ce47-4e8d-881d-5ffe46a219e0.png  width="250">
+
+  <img src=https://user-images.githubusercontent.com/51741195/133665768-5c0e1a19-6c39-4619-adb8-1858aa93371e.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133665745-8fb74d3b-038f-469c-a061-25282e4e75bc.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133665726-e49f6283-e5b5-4be6-b0e1-d860ce8eec7a.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133666051-0f78a104-2748-4e36-8fcb-6764160ba70d.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133666072-f16da1a9-f766-46e0-9a66-b304a6c5b0eb.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133666394-c2bedc8f-971d-4732-a9fc-30492d8e74ae.png  width="250">
+    <img src=https://user-images.githubusercontent.com/51741195/133666401-3dd98d51-3430-4f4b-a639-ead5a149c70b.png  width="250">
+    <img src=https://user-images.githubusercontent.com/51741195/133666223-9f12d80b-e53d-461f-943a-3a0ac256260e.png  width="250">
+    <img src=https://user-images.githubusercontent.com/51741195/133666246-312fb0db-4aa2-461d-82b4-9f4106fee55b.png  width="250">
+    <img src=https://user-images.githubusercontent.com/51741195/133666252-88a1b4d4-eb20-4848-ba0e-809d6cb63a69.png  width="250">
+    <img src=https://user-images.githubusercontent.com/51741195/133666264-be87b087-88c1-4eee-acb0-fb83755ceca6.png  width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/133666311-2d58cb3e-41a6-4ca5-9c59-e9fb111d5b23.png  width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/133666723-b0348afa-2137-47fe-8b34-d12da9afc47c.png  width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/133666728-ab4bda5f-711e-487d-8f0c-3e208a41de30.png  width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/133666749-64e1e30d-d7f1-46cb-b9f1-eacb2a8fb690.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133666764-21002268-2adc-4194-86bc-eaa100da81b8.png  width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/133666791-d9ba87f5-11f3-4e50-93b3-ba021f35349a.png  width="250">
+<!--    <img src=  width="250"> -->
+</kbd>
+
+
+<div>
+&nbsp;
+&nbsp;
+</div> 
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3>Project Name : E-commerce Web & Mobile Application (demo)</h3>
 
