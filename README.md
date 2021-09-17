@@ -79,18 +79,21 @@ Project Name : Omnisec Feed App
     Edit Tweets tags
     Delete non quality tweets
     reviews Feedback
- 
- 
-<h4>Photos:</h4>
 
-
-<!--  <img   src=https://user-images.githubusercontent.com/51741195/133664962-213b4642-1618-46e9-a08d-32a4a0f670a7.png width="400"> -->
+ <h4> Note : </h4>
  
- 
+    Firebase as backend 
+    firestore for db
+    google auth
+    Admin panel
+    lottie animations
+    invite system
+    The Full app work is build on flutter with no sql db
+   
 <div>
 &nbsp;
 <p  >
-Home page :
+Photos :
  
 </p>
 &nbsp;
