@@ -51,9 +51,96 @@ edit herer:
 <div>
 &nbsp;
 &nbsp;
-</div> -->
+</div>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h3>
+Project Name : ConShell
+</h3>
+
+<h4>
+Technology used :
+</h4>
+
+    Flutter 
+    GetX
+    local storage
+    
+    
+<h4>Features:</h4>
+
+    animated ui 
+    lottie animations
+    reminder function
+    can set Goals for u life
+    Can set tasks and reminders
+    shows application usage monitoring
+    local storage power by getx
+    
+ 
+<h4>Photos:</h4>
+
+
+<!-- ![gnder4](https://user-images.githubusercontent.com/51741195/134178405-f5e0ee8d-e35d-4fad-a62f-0320e79f8dc4.png) -->
+<!-- ![homepage applist](https://user-images.githubusercontent.com/51741195/134178425-8f9f9269-214f-4058-b2a1-03283db08ff4.jpeg) -->
+<!-- ![homescreen](https://user-images.githubusercontent.com/51741195/134178427-258f1835-bcf5-4180-9ff9-5c9a301e7fd3.jpeg) -->
+<!-- ![notification](https://user-images.githubusercontent.com/51741195/134178433-1651c7fe-3dc9-4f67-9353-75845c4fc2fd.jpeg) -->
+<!-- ![permission](https://user-images.githubusercontent.com/51741195/134178435-004ddaa2-66ad-483e-bc16-1743cb1ab481.png) -->
+<!-- ![permission2](https://user-images.githubusercontent.com/51741195/134178444-9260e8fc-a7ce-43d3-9c41-9ad2941b082e.png) -->
+<!-- ![productivity](https://user-images.githubusercontent.com/51741195/134178454-f0a7af3e-266d-4fd0-8be2-f5e99298a6b7.png) -->
+<!-- ![profile](https://user-images.githubusercontent.com/51741195/134178460-f3fe9cc4-cc6f-4a66-8fb2-789944f32962.png) -->
+<!-- ![setdateGoal](https://user-images.githubusercontent.com/51741195/134178466-ac4d7006-b035-47c9-a0f6-5ca9b318a19d.png) -->
+<!-- ![setgoal](https://user-images.githubusercontent.com/51741195/134178471-2de30892-d1a3-4b85-a2a9-1e6bc318c406.png) -->
+<!-- ![add tASK](https://user-images.githubusercontent.com/51741195/134178484-700d59ea-6094-4ba1-88c4-aac2813cd171.png) -->
+<!-- ![added task](https://user-images.githubusercontent.com/51741195/134178501-965aff50-4ed9-4e7d-8120-4fab7f6f9138.png) -->
+<!-- ![addedtext](https://user-images.githubusercontent.com/51741195/134178512-ede6174f-63a8-49de-bda7-463f26fd4736.png) -->
+<!-- ![addtask2](https://user-images.githubusercontent.com/51741195/134178517-f58b08b9-ecc2-45df-8982-af4634df5d6d.png) -->
+
+<!-- ![Gender1](https://user-images.githubusercontent.com/51741195/134178532-6b844e83-f57e-4962-862f-1d210105d43f.png) -->
+<!-- ![Gender2](https://user-images.githubusercontent.com/51741195/134178542-8c466592-c38a-4ea8-9e24-6e92ee8cf4bc.jpeg) -->
+<!-- ![gender3](https://user-images.githubusercontent.com/51741195/134178546-7c76f0a6-3954-4427-b718-4db66f423e2f.png) -->
+
+
+
+
+
+<kbd  >
+ <img src=https://user-images.githubusercontent.com/51741195/134178532-6b844e83-f57e-4962-862f-1d210105d43f.png width="250">
+ <img src=https://user-images.githubusercontent.com/51741195/134178542-8c466592-c38a-4ea8-9e24-6e92ee8cf4bc.jpeg width="250">
+ <img src=https://user-images.githubusercontent.com/51741195/134178405-f5e0ee8d-e35d-4fad-a62f-0320e79f8dc4.png width="250"> 
+  <img src=https://user-images.githubusercontent.com/51741195/134178546-7c76f0a6-3954-4427-b718-4db66f423e2f.png width="250"> 
+ <img src=https://user-images.githubusercontent.com/51741195/134178471-2de30892-d1a3-4b85-a2a9-1e6bc318c406.png width="250">
+ <img src=https://user-images.githubusercontent.com/51741195/134178466-ac4d7006-b035-47c9-a0f6-5ca9b318a19d.png width="250">
+ 
+   
+ <img src=https://user-images.githubusercontent.com/51741195/134178435-004ddaa2-66ad-483e-bc16-1743cb1ab481.png width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/134178444-9260e8fc-a7ce-43d3-9c41-9ad2941b082e.png width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/134178454-f0a7af3e-266d-4fd0-8be2-f5e99298a6b7.png width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/134178524-7a25fa1f-d2f6-40cf-8acd-b1418e3efb2b.png width="250">
+ 
+  <img src=https://user-images.githubusercontent.com/51741195/134178427-258f1835-bcf5-4180-9ff9-5c9a301e7fd3.jpeg width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/134178425-8f9f9269-214f-4058-b2a1-03283db08ff4.jpeg width="250">
+  <img src=https://user-images.githubusercontent.com/51741195/134178460-f3fe9cc4-cc6f-4a66-8fb2-789944f32962.png width="250">
+ 
+   <img src=https://user-images.githubusercontent.com/51741195/134178501-965aff50-4ed9-4e7d-8120-4fab7f6f9138.png width="250">
+
+   <img src=https://user-images.githubusercontent.com/51741195/134178484-700d59ea-6094-4ba1-88c4-aac2813cd171.png width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/134178517-f58b08b9-ecc2-45df-8982-af4634df5d6d.png width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/134178512-ede6174f-63a8-49de-bda7-463f26fd4736.png width="250">
+   <img src=https://user-images.githubusercontent.com/51741195/134178433-1651c7fe-3dc9-4f67-9353-75845c4fc2fd.jpeg width="250">
+ 
+</kbd>
+
+
+<div>
+&nbsp;
+&nbsp;
+</div>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -62,9 +149,26 @@ Project Name : Omnisec Feed App
 
 </h3>
 
+<h4>
+Technology used :
+</h4>
+
+    Flutter 
+    GetX
+    Getx local storage
+    firebase
+    firestore backend
+    python django 
+    firebase google auth
+    rest api intergation
+    lottie animations
+     
+    
+    
 <h4>Features:</h4>
 
     Intro screen
+    native splash screen
     Single Click Login with google 
     Normal News Feeds
     Tweets Feeds 
