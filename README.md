@@ -23,6 +23,15 @@ Project Name :
 
 </h3>
 
+<h4>
+Technology used :
+</h4>
+
+    Flutter 
+    GetX
+
+    
+
 <h4>Features:</h4>
 
     #
@@ -53,7 +62,52 @@ edit herer:
 &nbsp;
 </div>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------- -->
+ -->
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+<h3>
+Project Name :  Animated webApp 
+<a href="https://sureshkumar311.github.io/Animated_website/" target="_blank">(Live Link 😎)</a>
+</h3>
+<h4>
+ 
+ 
+Technology used :
+</h4>
+
+    Flutter Web
+    GetX
+    Mouse Tricks
+    video animations
+    lottie animation
+    
+
+<h4> Uses :  Just an Show case for Client but Due to problem from client side this project was break down</h4>
+
+<h3> i had lost my time and effort for this project 😖🤬😥</h3>
+   
+ 
+ 
+<h4>Photos:</h4>
+ 
+![splash screen](https://user-images.githubusercontent.com/51741195/134195354-aa1920f6-67a8-4d23-9967-2057645fa024.png)
+![homepage](https://user-images.githubusercontent.com/51741195/134195373-0639467a-f7c3-48d1-8742-eb7eff78c010.png)
+![medium page](https://user-images.githubusercontent.com/51741195/134195375-776a9620-582b-46f0-8716-dd67938e3584.png)
+![medium page1](https://user-images.githubusercontent.com/51741195/134195341-abfe72cb-f4dd-4e04-9401-259c048a799c.png)
+![profile](https://user-images.githubusercontent.com/51741195/134195350-9cb33898-ca4e-4c25-b0a5-0f4e66269aa8.png)
+![desingpage](https://user-images.githubusercontent.com/51741195/134195362-d77dfb35-141d-41fd-923f-e6ee1d6873ff.png)
+![desingpage1](https://user-images.githubusercontent.com/51741195/134195368-14ba598c-3dc0-428c-a831-8c792950aa3a.png)
+
+
+
+<div>
+&nbsp;
+&nbsp;
+</div>
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
