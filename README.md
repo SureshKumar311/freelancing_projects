@@ -357,7 +357,8 @@ Photos :
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Project Name : Admin Panel (demo)
+
+<h4>Project Name : Admin Panel (demo) <a href="https://sureshkumar311.github.io/Animated_website/" target="_blank">(Live Link 😎)</a> <h4/>
 
 Features:
 
