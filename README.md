@@ -134,6 +134,7 @@ Technology used :
     shows application usage monitoring
     local storage power by getx
     
+ <h2>Note Own UI Desing with Animations</h2>
  
 <h4>Photos:</h4>
 
@@ -190,8 +191,11 @@ Technology used :
 
 
 <div>
+ 
 &nbsp;
+ 
 &nbsp;
+ 
 </div>
 
 
